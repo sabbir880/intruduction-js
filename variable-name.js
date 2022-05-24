@@ -12,4 +12,3 @@ var name = "Hero Alam";
  var roomMateName = 'abdullah';
  var schoolName = ' Ideal High school';
  var PIE = 3.14;
-
