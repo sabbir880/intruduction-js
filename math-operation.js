@@ -15,3 +15,6 @@ console.log(priceDifference)
 console.log(totalPrice)
 console.log(eggMultiplication)
 console.log(onionQuantity)
+
+
+// math-operation 
