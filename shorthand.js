@@ -1,13 +1,13 @@
-var price1 = 50; 
+var price1 = 50;
 
 var price2 = 20;
 
-var total = price1 + price2;
+var totalNumber = price1 + price2;
 var difference = price1 - price2;
 var multiplication = price1 * price2;
 var division = price1 / price2;
 
-console.log(total)
+console.log(totalNumber)
 console.log(difference)
 console.log(multiplication)
 console.log(division)
@@ -27,5 +27,5 @@ console.log(age)
 var roll = 12;
 // roll = roll -1;
 // roll -= 1;
-roll --;
+roll--;
 console.log(roll)
